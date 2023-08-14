@@ -1,7 +1,6 @@
 ## This is the updated code from my assignment, I have used 2d list and dictionaries in comparssion to the old one.
 ## Also the visual is better as well and few of the things I couldn't do in assignmnet is also here. 
 
-
 import matplotlib.pyplot as plt
 
 def get_screw_data(file_path):
